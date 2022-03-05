@@ -1,1 +1,1 @@
-# Simple Linear Regression for Salary Prediiction of Years Experience
+# Simple Linear Regression for Salary Prediction of Years Experience
